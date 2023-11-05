@@ -3,10 +3,13 @@
 import requests
 
 # url of flask application and where post request should go
-# url = 'http://localhost:9696/predict'
+url = 'http://localhost:9696/predict'
 
-host = 'car-prices-env.eba-6vtp3yrg.ap-southeast-2.elasticbeanstalk.com'
-url = f'http://{host}/predict'
+##########################################################################################
+# comment line above and replace with lines below if running in Elastic Bean application #
+##########################################################################################
+# host = 'car-prices-env.eba-6vtp3yrg.ap-southeast-2.elasticbeanstalk.com'
+# url = f'http://{host}/predict'
 
 # test data
 car = {"mileage_miles" : 120000,
