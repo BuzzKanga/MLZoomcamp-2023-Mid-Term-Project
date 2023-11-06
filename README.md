@@ -6,6 +6,8 @@ Mid-term project for the 2023 MLZoomCamp Course.
 
 Knowing what is a fair price for a seconhand car is easier when an estimate calculated based on previous car sales is avalailble. To calculate the price based on previous card sale can be performed using different machine learning algorithms which can be compared to determine which one provides the most accurate estimate.
 
+![images/whichcar.png](images/whichcar.png)
+
 ## Dataset
 
 The Used Car Prices in UK Dataset will be used for training the machine leaning models. This is a comprehensive collection of automotive information extracted from the popular automotive marketplace website, [AutoTrader (UK)](www.autotrader.co.uk). This dataset comprises 3,685 data points, each representing a unique vehicle listing, and includes thirteen distinct features providing valuable insights into the world of automobiles.
