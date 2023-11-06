@@ -4,7 +4,9 @@ Mid-term project for the 2023 MLZoomCamp Course.
 
 ## Problem Description
 
-Knowing what is a fair price for a seconhand car is easier when an estimate calculated based on previous car sales is avalailble. To calculate the price based on previous card sale can be performed using different machine learning algorithms which can be compared to determine which one provides the most accurate estimate.
+Knowing what is a fair price for a seconhand car is easier when an estimate calculated based on previous car sales is avalailble.  
+
+Machine learning can be used to calculate the price based on previous car sales. Different machine learning algorithms will be compared to determine which one provides the most accurate estimate.
 
 ![images/whichcar.png](images/whichcar.png)
 
