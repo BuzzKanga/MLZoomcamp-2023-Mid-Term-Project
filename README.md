@@ -17,29 +17,17 @@ The Used Car Prices in UK Dataset will be used for training the machine leaning 
 The feature names are:
 
 - Title
-
 - Price : price of car in pounds
-
 - Mileage (miles)
-
 - Registration (year)
-
 - Previous Owners
-
 - Fuel Type
-
 - Body Type
-
 - Engine
-
 - Gearbox
-
 - Seats
-
 - Doors
-
 - Emission Class
-
 - Service history
 
 The dataset is available from [Kaggle](www.kaggle.com) at the following url: https://www.kaggle.com/datasets/muhammadawaistayyab/used-cars-prices-in-uk
